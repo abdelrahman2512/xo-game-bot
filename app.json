@@ -12,7 +12,7 @@
 
       "description": "Enter bot token Get It From @botfather.",
 
-      "required"true,
+      "required":true,
 
       "value": ""
 
