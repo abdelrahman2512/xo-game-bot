@@ -6,7 +6,7 @@ from pyrogram.types import InlineQuery, InlineQueryResultArticle, InputTextMessa
     InlineKeyboardMarkup, CallbackQuery, Message
 
 
-app = Client(session_name="XOGame",
+app = Client("XOGame",
              api_id=12643300,
              api_hash="73c1a336adc28a59661ff7761ff02672",
              bot_token= "5456461129:AAHQWirwSLwDM2-7LwDMt_WIYS11ZG4Kpuo"
